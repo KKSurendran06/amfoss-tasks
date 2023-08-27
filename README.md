@@ -1,11 +1,17 @@
 # amfoss-tasks
 
-# Why should we choose you?
+# About ME
 
-# What are your goals for the next six months? How will you accomplish them?
 
-# How will you contribute back to the club?
+# INTROSPECTION
 
-# My thoughts and feedback on the praveshan process 
 
-# 
+# WHY SHOULD WE CHOOSE YOU?
+
+# WHAT ARE YOUR GOALS FOR THE NEXT 6 MONTHS? , HOW WILL YOU ACCOMPLISH THEM?
+
+# HOW WILL YOU CONTRIBUTE BACK TO THE CLUB? 
+
+# WHAT ARE YOUR THOUGHTS AND FEEDBACK ON THE PRAVESHAN SELECTION PROCESS? 
+
+
