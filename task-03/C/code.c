@@ -6,7 +6,7 @@ bool checkprime(int N) {
         return false;
     }
 
-    for (int i = 2; N > i; i++) {
+    for (int i = 2; i * i <= N; i++) {
         if (N % i == 0) {
             return false;
         }
@@ -19,7 +19,7 @@ int main() {
     printf("Enter a number n: ");
     scanf("%d", &n);
 
-    for (int i = 1; n >= i; i++) {
+    for (int i = 2; i <= n; i++) {
         if (checkprime(i)) {
             printf("%d ", i);
         }
