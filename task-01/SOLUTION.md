@@ -1,3 +1,5 @@
+My approach ->
+
 # Part 1
 I completed this task with ease. First, I discovered that the smallest perfect number is 6 and performed the differentiation. After that, I located the '.txt' file containing the code. I then proceeded to the spells file, executed it, and successfully found the flag.
 
@@ -12,3 +14,32 @@ This task was straightforward. I accessed the commits repository in the Terminal
 
 # End Part
 The final section proved to be uncomplicated as well. I merged all the '.txt' files using the 'cat * > finalcode.txt' command. Then, I decoded the Base64 encryption and obtained the following URL: "https://github.com/TheHuntsman4/TheFinalSpell". I cloned the repository using Visual Studio Code (by the way, I used VS Code for all four parts). I ran 'TheOneThatEndsItAll.py' in VS Code, captured a screenshot of my output, and attached it to this directory.
+
+#git commands I learned ->
+*git status - shows modified files 
+*git innit - makes it as a git repository
+*git add . - adds all the files to commit
+*git commit -m "Example Message" - commits your content , a message can be added to display in the commit log
+*git push - pushes all the contents in the local branch to remote branch
+*git pull - merges all the contents  in the local branch from remote branch
+*git branch - lists all the branches present
+*git checkout <branch name> - switches from one branch to other branch
+*git clone <url> - copy's all the content from the hosted url
+*git log  - shows all the commits of the current branch
+*git checkout <branch-from-where-you-want-to-copy> example.txt - Copy a file from another branch to the current branch
+
+#terminal commands I learned ->
+*cd <directory_path> - Change the current working directory to a specified directory
+*ls - List files and directories in the current directory
+*mkdir <directory_name> - Create a new directory
+*rmdir <directory_name> - deletes an empty directory
+*touch <file.name> - Create a new file
+*nano <file_name> - Opens default text editor for editing or creating a file
+*cat <file_name> - Display the contents of a text file
+*mv <source_path> <destination_path> - Move or rename files and directories
+*rm <file_or_directory> - Remove files or directories
+*exit - exit terminal session
+*cp <source_path> <destination_path> - Copy files or directories from one location to another
+*cat * > finalcode.txt -  it will concatenate the content of all text files in the current directory and merges them into finalcode.txt
+*echo -n <Base64EncodedStringHere> | base64 -d  - decodes the base64 code 
+
