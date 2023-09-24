@@ -34,3 +34,209 @@
 "**Match:** Malaysia vs Hong Kong
 **Details:** 1st Match, Kuala Lumpur, September 19, 2023, Malaysia Tri-Nation T20I Series
 **Status:** Malaysia won by 102 runs"
+CSV requested at 2023-09-24 15:53:08
+CSV requested at 2023-09-24 15:57:22
+CSV requested at 2023-09-24 15:59:47
+CSV requested at 2023-09-24 16:00:26
+"2023-09-24 16:05:01: **Match:** India vs Pakistan Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:07:18: **Match:** India(26/50 ov) 190/1 vs Pakistan Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:08:49: **Match:** India(26/50 ov) 190/1 vs Pakistan Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:10:36: **Match:** India vs Pakistan Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:12:35: **Match:** India vs South Africa Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:14:23: **Match:** India vs South Africa Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:15:19: **Match:** India vs Pakistan Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+2023-09-24 16:16:33: list index out of range
+"2023-09-24 16:17:35: **Match:** India vs South Africa Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:20:15: **Match:** India vs Pakistan Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+CSV requested at 2023-09-24 16:21:14
+2023-09-24 16:26:26: name 'timestamp' is not defined
+2023-09-24 16:27:16: name 'timestamp' is not defined
+"2023-09-24 16:30:40: **Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+2023-09-24 16:32:19: name 'live_score_time' is not defined
+"2023-09-24 16:32:40: 2023-09-24 16:32:40: **Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:33:13: 2023-09-24 16:33:13: \ **Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:35:02: can only concatenate str (not ""set"") to str"
+"2023-09-24 16:36:30: 2023-09-24 16:36:30:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:39:36: 2023-09-24 16:39:36:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field."
+"2023-09-24 16:43:17: 2023-09-24 16:43:17:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.**score:** (32.4/50 ov)"
+"2023-09-24 16:44:06: 2023-09-24 16:44:06:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.**score:** (32.4/50 ov)"
+"2023-09-24 16:44:13: 2023-09-24 16:44:13:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.**score:** (32.4/50 ov)"
+"2023-09-24 16:46:34: 2023-09-24 16:46:34:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.**score:** (32.4/50 ov)
+"
+"2023-09-24 16:47:32: 2023-09-24 16:47:32:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+**score:** (34/50 ov)"
+"2023-09-24 16:48:54: 2023-09-24 16:48:54:
+**Match:** India vs New Zealand Women
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+**score:** India(34/50 ov) 235/2"
+"2023-09-24 16:53:02: 2023-09-24 16:53:02:
+**Team1:** India(35/50 ov) 249/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+CSV requested at 2023-09-24 16:53:20
+"2023-09-24 16:55:11: **Team1:** India(35/50 ov) 249/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 16:57:17:
+name 'live_score_with_time' is not defined"
+"2023-09-24 16:57:48:
+2023-09-24 16:57:48:
+**Team1:** India(35/50 ov) 249/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+CSV requested at 2023-09-24 16:58:01
+"2023-09-24 16:58:52:
+2023-09-24 16:58:52:
+**Team1:** India(35/50 ov) 249/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 16:58:56:
+2023-09-24 16:58:56:
+**Team1:** India(35/50 ov) 249/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 16:58:58:
+2023-09-24 16:58:58:
+**Team1:** India(35/50 ov) 249/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+CSV requested at 2023-09-24 16:59:05
+"2023-09-24 17:03:57:
+2023-09-24 17:03:57:
+**Team1:** India(35.6/50 ov) 260/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:04:00:
+2023-09-24 17:04:00:
+**Team1:** India(35.6/50 ov) 260/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:04:02:
+2023-09-24 17:04:02:
+**Team1:** India(35.6/50 ov) 260/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:09:40:
+**Team1:** India(37.2/50 ov) 273/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:09:48:
+**Team1:** India(38/50 ov) 276/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:09:53:
+**Team1:** India(38/50 ov) 276/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:11:53:
+**Team1:** India(38/50 ov) 276/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:11:55:
+**Team1:** India(38/50 ov) 276/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:11:58:
+**Team1:** India(38/50 ov) 276/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:12:40:
+**Team1:** India(38/50 ov) 276/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:12:45:
+**Team1:** India(38.4/50 ov) 286/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:12:49:
+**Team1:** India(38.4/50 ov) 286/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
+"2023-09-24 17:20:31:
+**Team1:** India(39.1/50 ov) 290/3
+**Team2:** Australia
+**Details:** 2nd ODI (D/N), Indore, September 24, 2023, Australia tour of India
+**Status:** Australia chose to field.
+"
