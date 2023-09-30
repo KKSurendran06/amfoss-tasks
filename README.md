@@ -35,7 +35,7 @@ My task statistics are as shown-
 | Task-11 | TinkerCAD | Not attempted |
 | Task-12   | Godot | Not attempted |
 | Task-13   | Vim | Not attempted |
-| [Task-14](https://github.com/KshitijThareja/amfoss-tasks/tree/main/Task-14)   | Bandit | Completed |
+| [Task-14](https://github.com/KKSurendran06/amfoss-tasks/tree/main/task-14)  | Bandit | Completed |
 | Task-15   | Project Euler | Not attempted |
 
 
