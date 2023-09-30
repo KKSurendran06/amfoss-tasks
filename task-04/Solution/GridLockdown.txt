@@ -1,0 +1,35 @@
+T = int(input().strip())
+
+for _ in range(T):
+    a1, a2, a3 = input().strip()
+    b1, b2, b3 = input().strip()
+    c1, c2, c3 = input().strip()
+
+    if a1 == a2 == a3:
+        print(a1)
+        continue
+    if b1 == b2 == b3:
+        print(b1)
+        continue
+    if c1 == c2 == c3:
+        print(c1)
+        continue
+
+    if a1 == b1 == c1:
+        print(a1)
+        continue
+    if a2 == b2 == c2:
+        print(a2)
+        continue
+    if a3 == b3 == c3:
+        print(a3)
+        continue
+
+    if a1 == b2 == c3:
+        print(a1)
+        continue
+    if a3 == b2 == c1:
+        print(a3)
+        continue
+
+    print("DRAW")

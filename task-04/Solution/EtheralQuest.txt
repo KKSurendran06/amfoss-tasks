@@ -1,0 +1,12 @@
+T = int(input())
+get_array = [0,0,0]
+
+for _ in range(T):
+    a1, a2, a3 = map(int, input().split())
+    get_array[0] += a1
+    get_array[1] += a2
+    get_array[2] += a3
+
+if get_array == [0,0,0]:
+    print("YES")
+else: print("NO")

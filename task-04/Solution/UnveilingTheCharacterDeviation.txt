@@ -1,0 +1,11 @@
+T = int(input().strip())
+s = 'amfoss'
+
+for a in range(T):
+    t=input()
+    counter = 6
+    for i in range (6):
+        if s[i]==t[i]:
+            counter -= 1
+    
+    print(counter)    

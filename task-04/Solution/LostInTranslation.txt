@@ -1,0 +1,26 @@
+T = list(input())
+
+if 'h' in T:
+    T = T[T.index('h') + 1:]  
+    
+    if 'e' in T:
+        T = T[T.index('e') + 1:]
+        
+        if 'l' in T:
+            T = T[T.index('l') + 1:] 
+            
+            if 'l' in T:
+                T = T[T.index('l') + 1:]  
+                
+                if 'o' in T:
+                    print("YES")
+                else:
+                    print("NO")
+            else:
+                print("NO")
+        else:
+            print("NO")
+    else:
+        print("NO")
+else:
+    print("NO")

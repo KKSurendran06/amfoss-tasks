@@ -1,0 +1,11 @@
+n = int(input())  
+times = list(map(int, input().split()))  
+
+min_time = min(times)  
+occurence = times.count(min_time)
+
+if occurence > 1:
+    print("Still Aetheria")
+else:
+    town_to_go = times.index(min_time) + 1  
+    print(town_to_go)
