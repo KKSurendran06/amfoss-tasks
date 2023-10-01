@@ -66,3 +66,6 @@ The final section proved to be uncomplicated as well. I merged all the '.txt' fi
 *cat * > finalcode.txt: It will concatenate the content of all text files in the current directory and merge them into finalcode.txt
 
 *echo -n <Base64EncodedStringHere> | base64 -d: Decodes the Base64 code
+
+![Screen-Shot](https://github.com/KKSurendran06/amfoss-tasks/blob/main/task-01/codes/Screenshot%20from%202023-08-27%2015-37-41.png)
+
