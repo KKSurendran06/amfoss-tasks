@@ -31,7 +31,7 @@ My task statistics are as shown-
 | [Task-07](https://github.com/KKSurendran06/amfoss-tasks/tree/main/task-07)    | AK-47℃ | Completed |
 | [Task-08](https://github.com/KKSurendran06/amfoss-tasks/tree/main/task-08)    | Poke-Search! | Completed |
 | Task-09   | GeoQuest | Not attempted|
-| Task-10   |  RuskOS | Not attempted |
+| [Task-10](https://github.com/KKSurendran06/amfoss-tasks/tree/main/task-10)   |  RuskOS |Completed |
 | Task-11 | TinkerCAD | Not attempted |
 | Task-12   | Godot | Not attempted |
 | [Task-13](https://github.com/KKSurendran06/amfoss-tasks/tree/main/task-13)     | Vim | Completed |
